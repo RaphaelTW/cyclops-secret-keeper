@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛡️ Cyclop's Secret Keeper 🛡️
 
 Bem-vindo ao Cyclop's Secret Keeper! Este é um aplicativo React Native desenvolvido com Expo, projetado para ajudar você a manter suas senhas de sites seguras e acessíveis. Com o poderoso olhar do Cyclop, suas senhas estão protegidas sob vigilância constante!
@@ -43,7 +42,3 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICE
 ---
 
 Desenvolvido com ❤️ por [Raphael Laurentino](https://github.com/RaphaelTW)
-=======
-# cyclops-secret-keeper
-Cyclop's Secret Keeper é um aplicativo móvel desenvolvido em React Native com Expo, projetado para armazenar com segurança as senhas dos sites. Com o poderoso olhar do Cyclop, suas senhas ficam protegidas e acessíveis a qualquer momento, diretamente do seu dispositivo móvel.
->>>>>>> 1c9b7381c19d9ffbdc1c6a72a3cb780d4f61b680
